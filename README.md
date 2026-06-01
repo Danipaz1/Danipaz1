@@ -1,4 +1,4 @@
-![Readme](Banner.png)
+![Readme](banner.png)
 <!--
 **Danipaz1/Danipaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
